@@ -1,4 +1,5 @@
 # AreRoundedBordersBetter
 
-Yes. Just kidding, in this page i will explain my point of view with rounded vs sharp borders.
-This includes 3 examples with project files and images.
+This is a collection of examples to better explain my opinion on border roundness. 
+
+(The readme dosent say much becouse the content is on the actual webpage)
